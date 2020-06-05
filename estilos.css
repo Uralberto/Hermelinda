@@ -1,0 +1,10 @@
+
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.mom {
+    background-color: rgb(49, 48, 48);
+}
